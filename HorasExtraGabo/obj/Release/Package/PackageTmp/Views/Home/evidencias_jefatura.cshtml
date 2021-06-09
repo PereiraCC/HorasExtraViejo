@@ -1,0 +1,209 @@
+﻿@using HorasExtraGabo.Models;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Bandeja de solicitudes</title>
+    <link href="~/css/estilos.css" rel="stylesheet" />
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <link href="~/css/formularios.css" rel="stylesheet" />
+    <link href="~/css/tablas.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo" style="height:initial;">
+        <div class="columnas">
+            <div class="col-2">
+                <br>
+                <h2>Aprobación de evidencias</h2>
+                <br>
+                @{
+                    var colorEvidencia = "";
+                    if ((String)ViewData["colorEvidencia"] == "rojo")
+                    {
+                        colorEvidencia = "border: 2px solid #BB0707;";
+                    }
+                    else if ((String)ViewData["colorEvidencia"] == "verde")
+                    {
+                        colorEvidencia = "border: 2px solid #15D25C;";
+                    }
+                }
+                <form action="/Home/actualizarEstadoEvidencia">
+                    <div class="agrupar" style="@colorEvidencia">
+                        <input name="idEvidencia" type="text" class="text-input" placeholder=" # de evidencia" value="@ViewData["EvidenciaSeleccionada"]">
+                        <small>Aprobar o rechazar evidencia</small>
+                        <select name="Estado" id="IDAprobReprob" class="text-input" onchange="mostrarMotivo();">
+                            <option value="Aprobado">Aprobado</option>
+                            <option value="Rechazado">Rechazado</option>
+                        </select>
+                        <textarea name="Motivo" id="motivoRechazo" rows="10" placeholder=" Motivo de rechazo" style="resize: none; display: none;"></textarea>
+                        <input type="hidden" name="idUsuario" value="@ViewData["UsuarioSeleccionado"]" />
+                        <br><br>
+                        <small>@ViewData["resultadoEvidencia"]</small>
+                        <input type="submit" value="Enviar respuesta" class="btn-submit">
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-2">
+                <br>
+                <h2>Bandeja de evidencias pendientes</h2>
+                <br>
+                <div class="agrupar2">
+                    <p>Filtro</p>
+                    <select name="AprobReprob" id="comboFuncionarios" class="text-input" onchange="Filtrado()">
+                        @foreach (var item in (List<Persona>)ViewData["listaFuncionarios"])
+                        {
+                            <option value="@item.idUsuario">@item.idUsuario</option>
+                        }
+                    </select>
+                    <table id="tablaEvidencias" style="border: 1px solid black;">
+                        <tr>
+                            <th height="50" hidden>ID evidencia</th>
+                            <th height="50">Funcionario</th>
+                            <th height="50">Actividad realizada</th>
+                            <th height="50">Horas realizadas</th>
+                            <th height="50">Evidencia</th>
+                            <th height="50" hidden>OCULTO</th>
+                        </tr>
+                        @foreach (var item in (List<Evidencias>)ViewData["listaEvidencias"])
+                        {
+                        <tr>
+                            <td hidden>@item.idEvidencia</td>
+                            <td>@item.nombreFuncionario</td>
+                            <td>@item.Actividad</td>
+                            <td>@item.Horas</td>
+                            <td>
+                            <p><a target="_blank" href="@item.RutaDocumento">Descargar</a></p>
+                            <p><a href="/Home/seleccionarEvidencia?idEvidencia=@item.idEvidencia&idUsuario=@item.idUsuario">Seleccionar</a></p>
+                        </td>
+                        <td hidden>@item.idUsuario</td>
+                    </tr>
+                        }
+                    </table>
+                    <script>
+                        function Filtrado() {
+                            var txtInput, filtro, tabla, fila, columna, valorColumna;
+                            txtInput = document.getElementById("comboFuncionarios");
+                            filtro = txtInput.value.toUpperCase();
+                            tabla = document.getElementById("tablaEvidencias");
+                            fila = tabla.getElementsByTagName("tr");
+                            for (var i = 0; i < fila.length; i++) {
+                                columna = fila[i].getElementsByTagName("td")[4];
+                                if (columna) {
+                                    valorColumna = columna.textContent || columna.innerText;
+                                    if (valorColumna.toUpperCase().indexOf(filtro) > -1) {
+                                        fila[i].style.display = "";
+                                    } else {
+                                        fila[i].style.display = "none";
+                                    }
+                                }
+                            }
+                        }
+                    </script>
+                    <script>
+                        function mostrarMotivo() {
+                            var Eleccion = document.getElementById("IDAprobReprob");
+                            var Motivo = document.getElementById("motivoRechazo");
+                            if (Eleccion.value == "Rechazado") {
+                                Motivo.style.display = 'block';
+                            } else if (Eleccion.value == "Aprobado") {
+                                Motivo.style.display = 'none';
+                            }
+                        }
+                    </script>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="columnas">
+            <div class="col-1">
+                <div class="agrupar">
+                    <div class="columnas">
+                        <div class="col-2">
+                            <div class="agrupar2">
+                                <h2>Evidencias aceptadas</h2>
+                                <table style="border: 1px solid black;">
+                                    <tr>
+                                        <th hidden height="50" style="background-color:#008a2d">ID evidencia</th>
+                                        <th height="50" style="background-color:#008a2d">Funcionario</th>
+                                        <th height="50" style="background-color:#008a2d">Actividad realizada</th>
+                                        <th height="50" style="background-color:#008a2d">Evidencia</th>
+                                    </tr>
+                                    @foreach (var item in (List<Evidencias>)ViewData["evidenciasAprobadas"])
+                                    {
+                                        <tr>
+                                            <td hidden height="50">@item.idEvidencia</td>
+                                            <td height="50">@item.nombreFuncionario</td>
+                                            <td height="50">@item.Actividad</td>
+                                            <td height="50"><a target="_blank" href="@item.RutaDocumento">Descargar</a></td>
+                                        </tr>
+                                    }
+                                </table>
+                            </div>
+                        </div>
+
+                        <div class="col-2">
+                            <div class="agrupar2">
+                                <h2>Evidencias rechazadas</h2>
+                                <table style="border: 1px solid black;">
+                                    <tr>
+                                        <th hidden height="50" style="background-color:#830000">ID evidencia</th>
+                                        <th height="50" style="background-color:#830000">Funcionario</th>
+                                        <th height="50" style="background-color:#830000">Actividad realizada</th>
+                                        <th height="50" style="background-color:#830000">Evidencia</th>
+                                    </tr>
+                                    @foreach (var item in (List<Evidencias>)ViewData["evidenciasRechazadas"])
+                                    {
+                                        <tr>
+                                            <td hidden height="50">@item.idEvidencia</td>
+                                            <td height="50">@item.nombreFuncionario</td>
+                                            <td height="50">@item.Actividad</td>
+                                            <td height="50"><a target="_blank" href="@item.RutaDocumento">Descargar</a></td>
+                                        </tr>
+                                    }
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br>
+                <a href="solicitud_jefatura">Enviar Solicitud</a>
+                <br>
+                <a href="evidencias_jefatura">Evidencias</a>
+                <br>
+                <a href="comparaciones">Comparativas</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,189 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="~/css/Config.css">
+    <title>Configuraciones</title>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="../Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+    <div class="cuerpo">
+        <div class="col-2" style="float:left">
+            <h2 style="color:black;">Usuarios Nuevos</h2> <br>
+            <a href="~/Admin/Config">Recargar</a><br />
+            <a href="~/Admin/Usuarios">Editar Usuarios</a>
+            <div>
+                <table id="tabla">
+                    <br>
+                    <br>
+                    <thead>
+                    <th class="idFun">ID Usuario</th>
+                    <th>Nombre</th>
+                    <th>Correo</th>
+                    </thead>
+                    <tbody>
+                        @using (Html.BeginForm("", ""))
+                        {
+                            if (ViewBag.datos != null)
+                            {
+                                for (int yx = 0; yx < 1; yx++)
+                                {
+                                    <tr class="tds">
+                                        <td class="idFun">@ViewBag.datos[yx, 0]</td>
+                                        <td hidden>@ViewBag.datos[yx, 1]</td>
+                                        <td hidden>@ViewBag.datos[yx, 2]</td>
+                                        <td>@ViewBag.datos[yx, 3]</td>
+                                        <td>@ViewBag.datos[yx, 4]</td>
+                                        <td hidden>@ViewBag.datos[yx, 5]</td>
+                                        <td hidden>@ViewBag.datos[yx, 6]</td>
+                                        <td hidden>@ViewBag.datos[yx, 7]</td>
+                                    </tr>
+                                }
+                            }
+                        }
+                    </tbody>
+                </table>
+                <br />
+            </div>
+            <script>
+                /* $("table tbody tr").click(function () {
+                     var ind = $(this).parent().children().index($(this));
+
+                     var x = document.getElementsByTagName("td");
+                     //var dato1 = [x[0].innerHTML, x[1].innerHTML, x[4].innerHTML, x[3].innerHTML  ];
+                     $("#idF").html(ind);
+                     $("#idn").html(dato1[1]);
+                     $("#idHora").html(dato1[2]);
+                     $("#idMes").html(dato1[3]);
+                 });*/
+
+                $(document).ready(function () {
+
+
+                    $(".boton").click(function () {
+
+                        //valores obtendra el dato del td por posciones [0]
+                        var valores0 = $(this).parents("tr").find("td")[0].innerHTML;//idUser
+                        document.getElementById("idUser").value = valores0;
+
+                        /*
+                                            $("#idF").html(valores0);
+                                            $("#idn").html(valores1);
+                                            $("#idHora").html(valores2);
+                                            $("#idMes").html(valores3);
+                                            alert(valores4);*/
+                    });
+
+                    $(".btr").click(function () {
+                        var url = document.getElementById("idr").value;
+                        window.open(url, '_blank');
+                    });
+
+                    $(".btj").click(function () {
+                        var url = document.getElementById("idr").value;
+                        window.open('/Tiempo/TeAprobacion', '_blank');
+                    });
+
+                });
+
+            </script>
+            <div style="col-5">
+                <form method="post" action="actualizar">
+                    <center>
+                        <label>Id Usuario</label><br />
+                        <input type="text" class="txt-pro" id="idUser" name="idUser"><br />
+                        <label>Departamento</label><br />
+                        <select name="departamento" class="txt-pro">
+                            <br />
+                            <option>Recursos Humanos</option>
+                            <option>TI</option>
+                            <option>Contabilidad</option>
+                            <option>Marketing</option>
+                            <option>Jefatura</option>
+                        </select><br />
+                        <label>Rol</label><br /><br />
+                        <select name="rol" class="txt-pro">
+                            <option>Jefatura</option>
+                            <option>Funcionario</option>
+                            <option>Director Administristrativo</option>
+                            <option>Control Tiempo Extraordinario</option>
+                            <option>Planilla</option>
+                        </select>
+                        <input type="submit" class="btn"><br /><br />
+                    </center>
+                </form>
+            </div>
+
+            <div>
+
+                <h2 style="color:black;">Fecha L&iacute;mite de Pago</h2><br />
+                <form method="post" action="editarFecha">
+                    <center>
+                        <label>Fecha: </label>
+                        <input type="text" class="txt-pro" name="fecha" value="@ViewBag.fechaC" />
+                        <input type="submit" class="btn" value="Cambiar" />
+                    </center>
+                </form>
+
+            </div>
+        </div>
+        <div class="col-2" style="float:left">
+            <h2 style="color:black;">Días Feriados</h2> <br>
+            <table id="tabla">
+                <br>
+                <br>
+                <thead>
+                <th class="idFun">Feriado</th>
+                <th>Motivo</th>
+                <th></th>
+                </thead>
+                <tbody>
+                    @using (Html.BeginForm("", ""))
+                    {
+                        if (ViewBag.datoF != null)
+                        {
+                            for (int yx = 0; yx < 12; yx++)
+                            {
+                                <tr class="tds">
+                                    <form method="post" action="actualizarFeriado">
+                                        <td hidden class="idFun"><input type="text" name="idFeriado" style="background-color:transparent;" value="@ViewBag.datoF[yx, 0]" /></td>
+                                        <td><input type="date" class="txt-pro" name="feriado" style="background-color:transparent;" value="@ViewBag.datoF[yx, 1]" /></td>
+                                        <td><input type="text" class="txt-pro" name="jefe" style="background-color:transparent;" value="@ViewBag.datoF[yx, 2]" /></td>
+                                        <td><input type="submit" value="Guardar" class="btn" style="width:auto;"</td>
+                                    </form>
+                                </tr>
+                            }
+                        }
+                    }
+                </tbody>
+            </table>
+            <br /><br />
+
+        </div>
+
+        <div>
+
+        </div>
+</body>
+</html>

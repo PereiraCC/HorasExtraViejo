@@ -1,0 +1,141 @@
+﻿@using HorasExtraGabo.Models;
+@{
+    Layout = null;
+    ViewBag.Title = "Evidencias";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Funcionarios evidencias</title>
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <link href="~/css/estilosevidencias.css" rel="stylesheet" />
+</head>
+<body>
+    <header class="header" style="z-index: 100;">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <div class="rol">
+                    <a href="#">@Session["Rol"]</a>
+                    <a href="#">@Session["nombre"]</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo">
+
+        <div class="col-4">
+            <br>
+            <h1 style="text-align: center;" style="font-family: Arial, Helvetica, sans-serif;">Evidencias, laboras horas extra</h1>
+
+            <h2 style="text-align: center;">Adjunte lo que se le solicita</h2>
+
+
+        </div>
+
+        <div class=" col-3">
+            <center>
+                <h3>Sus actividades</h3>
+                <br />
+            </center>
+            <table class="table">
+
+                <thead>
+                    <tr>
+                        <th style="text-align:center">Id Actividad</th>
+                        <th style="text-align:center">Actividad</th>
+
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @if (ViewData["activi"] != null)
+                    {
+                        foreach (var cargar in (IEnumerable<Actividades>)ViewData["activi"])
+                        {
+                            <tr>
+                                <center>
+                                    <td data-label="Id Actividad" style="text-align:center">@cargar.id_actividad</td>
+                                    <td data-label="Actividad" style="text-align:center">@cargar.actividad</td>
+                                </center>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <br />
+            @*<div><a style="align-content:flex-end; text-decoration:none" class="boton4" href="Evidencias">Refrescar actividades</a></div>*@
+        </div>
+
+        <div class="col-1">
+            @*<form method="post" action="Home/Evidencias">*@
+            <center>
+                <h3>Adjuntar evidencia</h3>
+                <br />
+            </center>
+            <form name="formulario" method="post" enctype="multipart/form-data">
+
+                <center>
+
+                    <br />
+                    <h4>Tiempo en que realizó la actividad:   <input name="horas" id="horas" style="font-size: 12pt; text-align: center;" type="text" class="input2" placeholder="Horas" style="text-align: center;" required></h4>
+                    <br />
+                    <h4>Id de la actividad a evidenciar:   <input name="idactividad" id="idactividad" style="font-size: 12pt; text-align: center;" type="text" class="input2" placeholder="Id Actividad" ; required></h4>
+                    <br />
+
+                </center>
+                <center>
+
+                    <br>
+                    <center>
+                        <div class="archivo">
+
+                            <input class="Archivo" style="font-size: 12pt; text-align: right; margin: 0 auto; width: 300px" type="file" name="file" accept=".pdf,.jpg,.png" multiple required />
+
+                        </div>
+                    </center>
+                    <br />
+                    <br />
+                    <button style="width: 250px" class="boton4" type="submit" style="font-size: 10pt">Subir evidencia al servidor y enviar</button>
+
+                    <br>
+                    <h4 class="text-danger" style="color:red">@ViewBag.Error</h4>
+                    <h4 class=" text-success" style="color:green">@ViewBag.Correcto</h4>
+                    <br>  <br>
+                    @*<input type="submit" name="enviarrestareas" value="Enviar a Jefatura" class="boton2" style="font-size: 10pt;">*@
+                </center>
+            </form>
+
+            @*</form>*@
+
+
+        </div>
+
+    </div>
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br><br><br>
+                <a href="funcionariostareas">Tareas</a>
+                <br>
+                <a href="formulariosavalados">Formularios Avalados</a>
+                <br>
+                <a href="evidencias">Evidencias</a>
+                <br>
+                <a href="formulariosyreportes">Formularios y reportes</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>

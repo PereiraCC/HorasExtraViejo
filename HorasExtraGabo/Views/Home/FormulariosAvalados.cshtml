@@ -1,0 +1,120 @@
+﻿@using HorasExtraGabo.Models;
+@{
+    Layout = null;
+    ViewBag.Title = "FormulariosAvalados";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Funcionarios formularios avalados</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/css/estilosavalados.css" rel="stylesheet" />
+    <link href="~/css/fontello.css" rel="stylesheet" />
+</head>
+<body>
+
+    <header class="header" style="z-index: 100;">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <div class="rol">
+                    <a href="#">@Session["Rol"]</a>
+                    <a href="#">@Session["nombre"]</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo">
+
+        <div class="col-4">
+            <br>
+            <h1 style="text-align: center;" style="font-family: Arial, Helvetica, sans-serif;">Estados de sus Formularios</h1>
+
+
+
+        </div>
+
+        <div class="col-8">
+
+
+            <h3 style="text-align: center;"> Sus últimos formularios </h3>
+            <br />
+            <center>
+                <div>
+
+                    <table class="ttareas" style="width: 350px">
+
+                        <thead>
+                            <tr>
+
+                                <th style="text-align:center">Estado del formulario</th>
+                                <th style="text-align:center">Fecha</th>
+                                <th style="text-align:center">Motivo de la Solicitud</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var cargar in (IEnumerable<FormularioHorasExtra2>)ViewData["formus"])
+                            {
+                                <tr>
+                                    <center>
+                                        <td style="font-size:12pt">@cargar.estado</td>
+                                        <td style="font-size:12pt">@cargar.fechaformulario.ToString().Substring(0, 10)</td>
+                                        <td style="font-size:12pt">@cargar.motivo</td>
+                                    </center>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    @*<input type="text" class="input" value="@ViewData["EstadoFormulario"]" style="text-align:center; font-size: 16pt; color:navy; width:500px;" disabled>*@
+
+                </div>
+
+                <br>
+
+            </center>
+        </div>
+        <div class="col-6">
+            <center>
+                <h3>Enviar formularios avalados</h3>
+                <form action="enviarDA" method="post">
+
+                    <br><br />
+                    <h4>A continuación proceda a enviar los formularios avalados al director administrativo</h4>
+                    <br><br />
+                    <input type="submit" class="boton6" font-size:10pt" value="Enviar formularios"><br><br>
+                    <h4>@ViewData["msg"]</h4>
+
+                </form>
+            </center>
+        </div>
+
+    </div>
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br><br><br>
+                <a href="funcionariostareas">Tareas</a>
+                <br>
+                <a href="formulariosavalados">Formularios Avalados</a>
+                <br>
+                <a href="evidencias">Evidencias</a>
+                <br>
+                <a href="formulariosyreportes">Formularios y reportes</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>
+

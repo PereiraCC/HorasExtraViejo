@@ -1,0 +1,169 @@
+﻿
+@using HorasExtraGabo.Models;
+@{
+    Layout = null;
+    ViewBag.Title = "funcionariotareas";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Funcionarios Tareas</title>
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <link href="~/css/estilossolicitud.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header class="header" style="z-index: 100;">
+        <div class="container">
+            <div class="btn-menu">
+
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <div class="rol">
+                    <a href="#">@Session["Rol"]</a>
+                    <a href="#">@Session["nombre"]</a>
+                </div>
+
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo">
+
+        <div class="col-4">
+            <br>
+            <h2 style="text-align: center;" ;"font-family: Arial, Helvetica, sans-serif;">Solicitud de tareas</h2>
+        </div>
+
+        <div class="col-6">
+
+            <h3 style="text-align: center;">Solicitudes</h3>
+            <br>
+
+            <table class="table">
+
+                <thead>
+                    <tr>
+                        <th style="text-align:center">Id Solicitud</th>
+                        <th style="text-align:center">Fecha Inicio</th>
+                        <th style="text-align:center">Fecha Fin</th>
+                        <th style="text-align:center">Número de horas</th>
+                        <th style="text-align:center">Tarea Principal</th>
+
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <center>
+
+                            @if (ViewData["idsolicitud"] != null)
+                            {
+                                <td data-label="Id Solicitud" style="text-align:center">@ViewData["idsolicitud"]</td>
+                                <td data-label="Fecha Inicio" style="text-align:center">@ViewData["fechainicio"].ToString().Substring(0, 10)</td>
+                                <td data-label="Fecha Fin" style="text-align:center">@ViewData["fechafin"].ToString().Substring(0, 10)</td>
+                                <td data-label="# de horas" style="text-align:center">@ViewData["horas"]</td>
+                                <td data-label="Tarea" style="text-align:center">@ViewData["tarea"]</td>
+
+                            }
+                        </center>
+                    </tr>
+
+                </tbody>
+            </table>
+            <br />
+            <center>
+                <h3>Actividades a realizar</h3>
+            </center>
+            <br />
+            <table class="table">
+
+                <thead>
+                    <tr>
+                        @*<th style="text-align:center">Id Actividad</th>*@
+                        <th style="text-align:center">Actividades</th>
+
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @if (ViewData["actividades"] != null)
+                    {
+                        foreach (var cargar in (IEnumerable<Actividades>)ViewData["actividades"])
+                        {
+                            <tr>
+
+                                @*<td data-label="Id Actividad" style="text-align:center">@cargar.id_actividad</td>*@
+                                <td data-label="Actividad" style="text-align:center">@cargar.actividad</td>
+
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <br>
+            <center>
+                <div><a style="align-content:flex-end" class="boton4" href="funcionariostareas">Refrescar tareas</a></div>
+            </center>
+
+            <center>
+                <br />
+                <label for="rol" style="font-size: 12pt" ;><h3>¿Puede realizar la tarea y sus actividades en el tiempo asignado?</h3></label>
+
+                @using (Html.BeginForm("AceptarTarea", "Home"))
+                {
+
+                    <form action="AceptarTarea" method="post">
+                        <div class="enviarjefa">
+                            <center>
+                                <input type="submit" name="aceptartarea" id="aceptartarea" value="Sí" class="boton" style="font-size: 14pt;">
+                            </center>
+
+                            <input type="text" class="text-input" placeholder="IdSolicitud" id="idsolicitud" name="idsolicitud" value="@ViewData["idsolicitud"]" readonly style="visibility:hidden;">
+                        </div>
+                    </form>
+                }
+
+                @using (Html.BeginForm("NegarTarea", "Home"))
+                {
+                    <form>
+                        <div class="enviarjefa">
+                            <center>
+                                <input type="submit" name="negartarea" id="negartarea" value="No" class="boton" style="font-size: 14pt; background-color:darkred;">
+                            </center>
+
+                            <input type="text" class="text-input" placeholder="IdSolicitud" id="idsolicitud" name="idsolicitud" value="@ViewData["idsolicitud"]" readonly style="visibility:hidden;">
+                        </div>
+                    </form>
+                }
+            </center>
+
+        </div>
+    </div>
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br><br><br><br>
+                <a href="funcionariostareas">Tareas</a>
+                <br>
+                <a href="formulariosavalados">Formularios Avalados</a>
+                <br>
+
+                <a href="evidencias">Evidencias</a>
+                <br>
+                <a href="formulariosyreportes">Formularios y reportes</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>

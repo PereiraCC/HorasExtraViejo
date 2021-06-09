@@ -1,0 +1,73 @@
+﻿@model Sitios.Models.Login
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/css/login.css">
+    <title>Login</title>
+</head>
+<body>
+    <header></header>
+    <div id="nav"><a href="#openmodal" class="open"><img src="~/Media/log2.png" /> <h4 style="font-family:Montserrat;">Login</h4></a></div>
+    <div class="container">
+        <h2 style="font-family: Montserrat;">Control de Tiempo Extraordinario</h2>
+        <p style="font-family:Montserrat;">
+            Sistema </br></br>
+            <img src="~/img/logo.jpg" width="300"></br></br>
+            De qué trata:</br>
+
+            Sistema de gestión y control de Horas Extra.</br>
+            Este sistema nos permite llevar un correcto control de las horas extra de nuestros
+            trabajadores.</br></br>
+
+            Funciones:</br>
+            -Asignar tareasa realizar en horas extra a los funcionarios</br>
+            -Aceptar o denegar tareas de parte de los funcionarios</br>
+            -Adjuntar evidencias de las tareas realizadas</br>
+            -Aprobar o denegar evidencias</br>
+            -Llenar formularios de tiempos extra</br>
+            -Aprobar o denegar formularios de tiempos extra</br>
+            -Agregar y aprobar o denegar jornadas de tiempos extra</br>
+            -Generar informes de planillas</br>
+            -Aprobar o denegar horas extra</br>
+            -Realizar el pago de horas extra</br>
+            -Llevar un control de todo lo que realicen los usuarios</br></br>
+
+            Cálculos de horas extra</br>
+            Tiempo simple= Pago de una hora</br>
+            Tiempo y medio= pago de una hora y media por hora</br>
+            Tiempo doble= Pago de dos horas por hora</br>
+
+        </p>
+    </div>
+    <section id="openmodal" class="modalDialog">
+        <center>
+            <section class="modal">
+                <a href="#" class="close">X</a>
+                <img src="/media/perfil.png" alt="" width="100"> <br><br>
+                <h3 style="color:#808080; font-family:Montserrat;">Login</h3>
+                <h3 style="color:#808080; font-family:Montserrat;">Gestión de Horas Extraordinarios</h3><br />
+                <form method="post">
+                    <input class="texto form-control" type="text" name="user" placeholder="Correo Electrónico" required>
+                    <br><br>
+                    <input class="texto form-control" type="password" name="password" placeholder="Contraseña" required>
+                    <br><br>
+                    <input id="button" type="submit" name="" value="Ingresar"><br />
+                    <h4 style="color:#000;">@ViewData["err"]</h4><br /><br />
+                    <a href="~/Admin/registro" target="_blank" style="font-family:Montserrat;">Registrarme</a>
+                </form><br />
+                
+            </section>
+        </center>
+    </section>
+</body>
+</html>
+

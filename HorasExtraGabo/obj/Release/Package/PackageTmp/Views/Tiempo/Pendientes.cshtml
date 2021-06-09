@@ -1,0 +1,252 @@
+﻿@using Sitios.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Director Administrativo</title>
+    <link rel="stylesheet" href="/css/controlTiempo.css">
+    <link rel="stylesheet" href="/css/fontello.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="../Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo">
+        <h1>Pendientes</h1>
+        <div class="" style="width:100%;">
+            <input type="text" name="" class="txt-pro txt-menu" placeholder="Filtrar...">
+            <select name="" class="txt-pro txt-menu" style="float:right;">
+                <option value="">Nombre</option>
+                <option value="">Identificación</option>
+                <option value="">Estado</option>
+            </select>
+        </div>
+        <div class="menu-tab" hidden>
+            <button class="btn-tab" type="button" name="button" hidden><<</button>
+            <button class="btn-tab" type="button" name="button">1</button>
+            <button class="btn-tab" type="button" name="button">2</button>
+            <button class="btn-tab" type="button" name="button">3</button>
+            <button class="btn-tab" type="button" name="button">4</button>
+        </div>
+        <div class="col-1 col-pos">
+            <br /><br />
+            @using (Html.BeginForm("Pendientes", "Tiempo"))
+            {
+                <form action="DaAprobacion" hidden><input type="submit" class="btn" value="Refrescar" style="padding:2px; width:15%; margin-left:10%; margin-bottom:1%;"></form>
+            }
+            <table id="tabla" style="margin-top:-3%;">
+                <br>
+                <br>
+                <thead>
+                <th class="idFun" hidden>ID Funcionario</th>
+                <th>Nombre</th>
+                <th>Fecha Jornada</th>
+                <th class="idFun">Mes </th>
+                <th class="idFun">Horas</th>
+                <th>Corresponde a</th>
+                <th>Departamento</th>
+                <th>Acción</th>
+                </thead>
+                <tbody>
+                    @using (Html.BeginForm("FormAprobar", "Tiempo"))
+                    {
+                        if (ViewBag.datos != null)
+                        {
+                            for (int yx = 0; yx < 8; yx++)
+                            {
+                                <tr>
+                                    <form action="" method="post">
+                                        <td class="idFun" hidden>@ViewBag.datos[yx, 4]</td>
+                                        <td>@ViewBag.datos[yx, 6]</td>
+                                        <td>@ViewBag.datos[yx, 1]</td>
+                                        <td class="idFun">@ViewBag.datos[yx, 2]</td>
+                                        <td class="idFun">@ViewBag.datos[yx, 7]</td>
+                                        <td>@ViewBag.datos[yx, 3]</td>
+                                        <td>@ViewBag.datos[yx, 5]</td>
+                                        <td hidden>@ViewBag.datos[yx, 0]</td>
+                                        <td hidden>@ViewBag.datos[yx, 8]</td>
+                                        <td hidden>@ViewBag.datos[yx, 9]</td>
+                                        <td hidden>@ViewBag.datos[yx, 10]</td>
+                                        <td>
+                                            <a href="#openmodal" class="boton"><img src="~/media/edit.png" width="30" /></a>
+                                        </td>
+                                    </form>
+                                </tr>
+                            }
+                        }
+                    }
+
+                </tbody>
+                <tbody></tbody>
+                <div class="contenedor">
+                    <section id="openmodal" class="modalDialog">
+
+                        <section class="modal">
+                            <a href="#" class="close">X</a>
+                            <div class="modal">
+                                <div class="col-6 col-pos">
+
+                                    <form action="TeAprobaciona" method="post" class="frm">
+                                        <input type="text" name="idProc" class="txt-pro" hidden id="idProc" value="@Session["idProc"]">
+                                        <label>Nombre: </label><br>
+                                        <input type="text" name="idFuncionario" class="txt-pro" id="idn" disabled value="@Session["nombre"]"><br><br>
+                                        <label>Fecha Formulario: </label><br>
+                                        <input type="text" name="rep" class="txt-pro" id="idF" disabled value="@Session["fecha"]"><br><br>
+                                        <a class="btj" name="" value="Ver"> Jornada</a><br /><br />
+                                        <label>Reporte de Asistencia</label><br>
+                                        <input type="text" name="fecha" class="txt-pro" id="idR" disabled value="@Session["reporte"]"><br><br>
+                                        <a class="btr" name="" value="Ver">Ver Reporte</a><br><br>
+                                        <label>Horas extras: </label><br>
+                                        <input type="text" name="hora" class="txt-pro" id="idHora" value="@Session["horas"]"><br><br>
+                                        <label>Tipo de Pago</label><br><br>
+                                        <input type="text" name="tipo" class="txt-pro" id="tipo" value="@Session["Prub"]" disabled><br><br>
+                                        <input type="text" name="tipoP" class="txt-pro" id="tipoP" value="@Session["Prub"]" hidden>
+                                        <center>
+                                            <div style="margin-left:10%; text-decoration:underline;"><center><label id="h1" hidden>Tiempo Simple: Se paga valor de hora simple</label></center><br><center><label id="h2" hidden>Tiempo y medio: Se paga valor de hora x 1.5</label></center><br><center><label id="h3" hidden>Tiempo doble: Se paga valor de la hora x 2</label></center><br /></div>
+                                            <input type="submit" class="btn" name="button" id="btnAceptar" value="Aceptar" style="margin-bottom:-15%;">
+                                        </center>
+                                    </form>
+                                    @using (Html.BeginForm("TiempoPago", "Tiempo"))
+                                    {
+                                        <form action="TiempoPago" method="post">
+                                            <input type="text" name="idProc2" class="txt-pro" hidden id="idProc2">
+                                            <input type="text" name="fechaV" class="txt-pro" id="idDate2" value="@Session["fecha"]" hidden><br><br>
+                                            <center>
+                                                <input type="submit" class="btn" id="veriF" name="button" value="Verificar tipo de pago">
+                                            </center>
+                                            <input type="text" name="idFuncion" class="txt-pro" hidden id="idFuncion">
+                                        </form>
+                                    }
+
+                                </div>
+                                <div class="col-7 col-pos">
+                                    <input type="text" name="tipoP" class="txt-pro" id="idJornadas" hidden value="">
+                                </div>
+                                <div class="col-7 col-pos" id="rechaz">
+                                    <form method="post" action="rechazar">
+                                        <label>Motivo de Rechazo</label>
+                                        <input type="text" name="idproce2" id="idproce2" value="@Session["idProc"]" hidden />
+                                        <textarea class="txt-pro" name="txRech" rows="8" cols="80"></textarea><br><br>
+                                        <label hidden>Correo: </label><br>
+                                        <input type="email" name="" hidden placeholder="persona@correo.com" id="idCorreo" value="@Session["correo"]" class="txt-pro"><br><br>
+                                        <input type="submit" class="btn" value="Rechazar">
+                                    </form>
+                                </div>
+
+                        </section>
+                    </section>
+                </div>
+            </table>
+        </div>
+
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            var txTipo = document.getElementById('tipo').value;
+            if (txTipo == "") {
+                document.getElementById('btnAceptar').style.display = 'none';
+                document.getElementById('rechaz').style.display = 'none';
+            }
+            else {
+                document.getElementById('h1').style.display = 'none';
+                document.getElementById('h2').style.display = 'none';
+                document.getElementById('h3').style.display = 'none';
+                document.getElementById('veriF').style.display = 'none';
+                if (txTipo == 'H1') {
+                    document.getElementById('h1').style.display = 'block';
+                }
+                if (txTipo == 'H2') {
+                    document.getElementById('h2').style.display = 'block';
+                }
+                if (txTipo == 'H3') {
+                    document.getElementById('h3').style.display = 'block';
+                }
+            }
+
+            $(".boton").click(function () {
+                document.getElementById('veriF').style.display = 'block';
+                document.getElementById('btnAceptar').style.display = 'none';
+                document.getElementById('rechaz').style.display = 'none';
+                document.getElementById('h1').style.display = 'none';
+                document.getElementById('h2').style.display = 'none';
+                document.getElementById('h3').style.display = 'none';
+                //valores obtendra el dato del td por posciones [0]
+                var valores0 = $(this).parents("tr").find("td")[0].innerHTML;   //Funcionario
+                var valores1 = $(this).parents("tr").find("td")[1].innerHTML;   //Nombre
+                var valores2 = $(this).parents("tr").find("td")[2].innerHTML;   //fecha
+                var valores3 = $(this).parents("tr").find("td")[8].innerHTML;   //correo
+                var valores4 = $(this).parents("tr").find("td")[4].innerHTML;   //Horas
+                var valores5 = $(this).parents("tr").find("td")[7].innerHTML;   //idProc
+                var valores6 = $(this).parents("tr").find("td")[9].innerHTML;   //ruta
+                var valores7 = $(this).parents("tr").find("td")[10].innerHTML;  //idJornada
+
+                document.getElementById("idF").value = valores2;
+                document.getElementById("idn").value = valores1;
+                document.getElementById("idHora").value = valores4;
+                document.getElementById("idCorreo").value = valores3;
+                document.getElementById("idProc").value = valores5;
+                document.getElementById("idProc2").value = valores5;
+                document.getElementById("idproce2").value = valores5;
+                document.getElementById("idDate2").value = valores2;
+                document.getElementById("idR").value = valores6;
+                document.getElementById("idFuncion").value = valores0;
+                document.getElementById("tipo").value = "";
+                document.getElementById("tipoP").value = "";
+                document.getElementById("idJornadas").value = valores7;
+            });
+
+            $(".btr").click(function () {
+                var url = document.getElementById("idR").value;
+                window.open(url, '_blank');
+            });
+
+            $(".btj").click(function () {
+                //    var url = document.getElementById("idr").value;
+                var txJor = document.getElementById('idJornadas').value;
+                window.open('/Tiempo/TeAprobacion2/?idJornada=' + txJor + '&opc=cte', '_blank');
+            });
+
+        });
+
+    </script>
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br>
+                <a href="#">Lista Pendientes</a>
+                <br>
+                <a href="TeAprobacion">Jornadas de Funcionarios</a>
+                <br>
+                <a href="../Home/bitacora">Bitácora</a>
+                <br>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+
+</html>

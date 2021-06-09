@@ -1,0 +1,131 @@
+﻿@using Sitios.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Aprobación | Encargado CT</title>
+    <link rel="stylesheet" href="/css/te_aprobacion.css">
+    <link rel="stylesheet" href="/css/fontello.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="~/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo">
+        <br><br>
+        <h1>Jornadas de Funcionarios</h1><br><br>
+
+        <div class="col-1 col-pos">
+            <div hidden>
+                @using (Html.BeginForm("jornada", "Director"))
+                {
+                    <form action="TeAprobacion" method="post" class="frm">
+                        <label>ID Jornada</label><br>
+                        <input type="text" class="txt-pro" name="idJornada" id="idF">
+                        <input class="btn" type="submit" name="" value="Consultar"><br>
+                    </form>
+                }
+            </div>
+            <table id="tabla">
+                <br>
+                <br>
+                <thead>
+                <th class="idFun" hidden>ID Jornada</th>
+                <th>Fecha</th>
+                <th>Nombre</th>
+                <th>Horas Válidas</th>
+                <th>Hora Entrada</th>
+                <th>Hora Salida</th>
+                <th>Reporte Asistencia</th>
+                </thead>
+                <tbody>
+                    @using (Html.BeginForm("", ""))
+                    {
+                        if (ViewBag.datos != null)
+                        {
+                            for (int yx = 0; yx < 6; yx++)
+                            {
+                                <tr class="tds">
+                                    <td class="idFun">@ViewBag.datos[yx, 0]</td>
+                                    <td>@ViewBag.datos[yx, 1]</td>
+                                    <td>@ViewBag.datos[yx, 2]</td>
+                                    <td>@ViewBag.datos[yx, 3]</td>
+                                    <td>@ViewBag.datos[yx, 4]</td>
+                                    <td hidden>@ViewBag.datos[yx, 5]</td>
+                                    <td><img class="boton" id="btj" src="~/media/edit.png" width="30" /></td>
+                                </tr>
+                            }
+                        }
+                    }
+                </tbody>
+            </table>
+            <input class="txt-pro" type="text" id="reporte" hidden />
+        </div>
+    </div>
+
+    <script>
+            $(document).ready(function () {
+
+
+                $(".boton").click(function () {
+
+                    //valores obtendra el dato del td por posciones [0]
+                    var valores0 = $(this).parents("tr").find("td")[5].innerHTML;
+                    document.getElementById("reporte").value = valores0;
+
+                });
+
+                $(".btr").click(function () {
+                    var url = document.getElementById("idr").value;
+                    window.open(url, '_blank');
+                });
+
+                $("#btj").click(function () {
+
+                    var valores0 = $(this).parents("tr").find("td")[5].innerHTML;
+                    document.getElementById("reporte").value = valores0;
+                    var nom = document.getElementById('reporte').value;
+                    window.open(nom, '_blank');
+                });
+
+            });
+
+    </script>
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br>
+                <a href="Pendientes">Lista Pendientes</a>
+                <br>
+                <a href="#">Aprobación</a>
+                <br>
+                <a href="../Home/bitacora">Bitácora</a>
+                <br>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+</body>
+</html>

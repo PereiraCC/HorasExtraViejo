@@ -1,0 +1,125 @@
+﻿@using HorasExtraGabo.Models;
+
+
+@{
+    Layout = null;
+    ViewBag.Title = "Horasextra";
+}
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Enviar Solicitud</title>
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <link href="~/css/estiloshorasextra.css" rel="stylesheet" />
+    <link href="~/css/estilos.css" rel="stylesheet" />
+    <link href="~/css/formularios.css" rel="stylesheet" />
+    <link href="~/css/tablas.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <<a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo">
+        <div class="columnas">
+            <div class="col-2">
+                <br>
+                <center>
+                    <h2>Formulario de solicitud</h2>
+                    <h2>de horas extra de funcionario</h2>
+                </center>
+                <br />
+                @{
+                    var validarActividad = "";
+                    if ((String)ViewData["hayActividades"] == "rojo")
+                    {
+                        validarActividad = "border: 2px solid #BB0707;";
+                    }
+                    else if ((String)ViewData["hayActividades"] == "verde")
+                    {
+                        validarActividad = "border: 2px solid #15D25C;";
+                    }
+                }
+                <div class="agrupar" style="@validarActividad">
+                    <center>
+                        <input type="text" class="text-input" placeholder="Actividad" id="txtActividad" style="text-align:center; width: 400px; " value="">
+                        <small>@ViewData["txtActividad"]</small>
+                        <br />
+                        <input type="button" style="font-size: 10pt" value="Agregar actividad" class="boton2" onclick="location.href='@Url.Action("agregarActividad", "Home")?act=' + encodeURIComponent(document.getElementById('txtActividad').value)">
+                    </center>
+                </div>
+                <br>
+                @{
+                    var validarSolicitud = "";
+                    if ((String)ViewData["haySolicitud"] == "rojo")
+                    {
+                        validarSolicitud = "border: 2px solid #BB0707;";
+                    }
+                    else if ((String)ViewData["haySolicitud"] == "verde")
+                    {
+                        validarSolicitud = "border: 2px solid #15D25C;";
+                    }
+                }
+                <div class="agrupar" style="@validarSolicitud">
+                    <form action="/Home/agregarSolicitudJefatura" method="post">
+                        <center>
+                            <small>Id Funcionario: </small><input type="text" class="text-input" placeholder="Su id de funcionario" name="idUsuario" style="text-align:center" required>
+                            <small>Fecha de inicio</small>
+                            <input type="date" class="text-input" name="FechaInicio" style="text-align:center" required>
+
+                            <br /><br />
+                            <small>Fecha de fin: </small><input type="date" class="text-input" name="FechaFin" style="text-align:center" required>
+                            <small>Cant. de horas</small>
+                            <input type="number" class="text-input" name="HorasAprox" style="text-align:center" placeholder="Horas" required>
+                            <br /><br />
+                            <textarea name="TareaPrincipal" id="" rows="10" placeholder="Tarea principal" style="text-align:center" required></textarea>
+                            <br><br>
+                            <small>@ViewData["resultadoSolicitudJefatura"]</small>
+                            <input type="submit" value="Enviar solicitud" class="boton2" style="font-size: 10pt">
+                        </center>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br>
+                <a href="funcionariostareas">Tareas</a>
+                <br>
+                <a href="formulariosavalados">Formularios Avalados</a>
+                <br>
+                <a href="horasextra">Horas extras</a>
+                <br>
+                <a href="evidencias">Evidencias</a>
+                <br>
+                <a href="formulariosyreportes">Formularios y reportes</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>
+

@@ -1,0 +1,17 @@
+table{
+	margin: 0 auto;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table th{
+	background-color: #092A5B;
+	color: white;
+}
+
+table tr:nth-child(even){
+	background-color: #CCCCCC;
+}
+
+table td{
+	text-align: center;

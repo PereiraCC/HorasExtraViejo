@@ -1,0 +1,160 @@
+﻿@using HorasExtraGabo.Models;
+@{
+    Layout = null;
+    ViewBag.Title = "FormulariosyReportes";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Formularios y reportes(Laborar extras)</title>
+    <link href="~/css/estilosformulariosyreportes.css" rel="stylesheet" />
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+    <script src="~/css/Resta.js"></script>
+</head>
+<body>
+    <header class="header" style="position: fixed; z-index: 100;">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <div class="rol">
+                    <a href="#">@Session["Rol"]</a>
+                    <a href="#">@Session["nombre"]</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo">
+
+        <div class="col-4">
+            <br>
+            <h2 style="text-align: center;" style="font-family: Arial, Helvetica, sans-serif;">Formularios y Reportes</h2>
+            <h3 style="text-align: center;" style="font-family: Arial, Helvetica, sans-serif;">Laborar horas extra</h3>
+
+            <h3 style="text-align: center;">Llene lo que se le solicita</h3>
+            <br>
+
+        </div>
+
+        <div class="col-8">
+            <br>
+
+            <h3 style="text-align: center;">Haga una solicitud del</h3>
+            <h3 style="text-align: center;">reporte de asistencia y adjunte:</h3>
+            <center>
+                <div>
+                    <br>
+                    <form name="formulario" method="post" enctype="multipart/form-data">
+                        @*<h4>Su Id:   <input name="iduser" id="iduser" style="font-size: 12pt; text-align: center;" type="text" class="input2" placeholder="Id Usuario" style="text-align: center;" required></h4>*@
+                        <br /><br />
+                        <center>
+                            <input style="font-size: 12pt; text-align: center; width: 300px" type="file" name="file" accept=".pdf,.jpg,.png" multiple required />
+                            <br /><br />
+                        </center>
+                        <input type="submit" name="enviarrestareas" value="Enviar a Jefatura" class="boton3" style="font-size: 10pt;">
+                        <br>
+
+                        <h4 class="text-danger">@ViewBag.Error</h4>
+                        <h4 class=" text-success">@ViewBag.Correcto</h4>
+
+
+                    </form>
+
+                </div>
+
+            </center>
+        </div>
+        <div class="col-3">
+
+            <center>
+                <br />
+                <h3 style="text-align: center;">Formulario de tiempos extra</h3>
+                <br>
+                @using (Html.BeginForm("InsertarFormulario", "Home"))
+                {
+                    <form name="tiempoextra" method="post" enctype="multipart/form-data" action="">
+                        <div>
+                            <input name="motivo" id="motivo" type="text" class="input" placeholder="Motivo para realizar horas extra" style="font-size: 14pt; text-align: center;" required>
+                            <br>
+                        </div>
+                        <div class="hijo">
+                            <input class="input3" type="date" id="fecha" name="fecha" value="2020-07-20" min="2020-01-01" max="2020-12-31" style="font-size: 12pt; text-align:center" required>
+                        </div>
+                        <div class="hijo">
+                            <input name="horast" id="horast" type="text" class="input2" placeholder="Total horas" style="font-size: 14pt;  text-align:center" value="@ViewData["total"]">
+                        </div>
+                        <div class="enviarjefa">
+                            <input name="enviarrestareas" value="Agregar tiempo extra realizado" class="boton2" style="font-size: 10pt;" type="submit">
+                        </div>
+                        <br>
+                    </form>
+
+                }
+            </center>
+            <h3 style="text-align: center;">Jornada de tiempos extra</h3>
+
+            @using (Html.BeginForm("InsertarJornada", "Home"))
+            {
+                <div class="padre">
+                    <h4 style="text-align: center;">(Utilice formato de 24 horas)</h4>
+                    <form name="jornada" method="post" enctype="multipart/form-data">
+                        <div class="hijo">
+                            <input class="input3" type="date" id="fecha" name="fecha" value="2020-07-20" min="2020-01-01" max="2020-12-31" style="font-size: 12pt; text-align:center" required>
+                        </div>
+                        <div class="hijo">
+                            <input name="horaentrada" id="horaentrada" type="text" class="input2" placeholder="H. Entrada" style="font-size: 14pt;  text-align:center" required>
+                            @*<input type="text" id="quantity" />*@
+                        </div>
+                        <div class="hijo">
+                            <input name="horasalida" id="horasalida" type="text" class="input2" placeholder="H. Salida" style="font-size: 14pt;  text-align:center" required>
+                            @*<input type="text" id="price" />*@
+                        </div>
+
+                        <div class="hijo">
+                            @*<input type="text" id="totalPrice" />*@
+                            <input name="hvalidas" id="hvalidas" type="text" class="input2" placeholder="Horas válidas" style="font-size: 14pt;  text-align:center; width: 150px">
+
+                        </div>
+
+                        <div class="enviarjefa">
+                            <input name="enviarrestareas" value="Agregar tiempo extra realizado" class="boton2" style="font-size: 10pt;" type="submit">
+                        </div>
+
+
+
+                    </form>
+                </div>
+            }
+            <br />
+
+
+        </div>
+    </div>
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br><br><br>
+                <a href="funcionariostareas">Tareas</a>
+                <br>
+                <a href="formulariosavalados">Formularios Avalados</a>
+                <br>
+                <a href="evidencias">Evidencias</a>
+                <br>
+                <a href="formulariosyreportes">Formularios y reportes</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>
+

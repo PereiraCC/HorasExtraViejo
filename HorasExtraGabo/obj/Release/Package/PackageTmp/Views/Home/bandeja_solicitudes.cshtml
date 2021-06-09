@@ -1,0 +1,133 @@
+﻿@using HorasExtraGabo.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Bandeja de solicitudes</title>
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <link href="~/css/estilos.css" rel="stylesheet" />
+    <link href="~/css/formularios.css" rel="stylesheet" />
+    <link href="~/css/tablas.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo" style="height:initial;">
+        <div class="columnas">
+            <div class="col-2">
+                <br>
+                <h2>Aprobación para laborar</h2>
+                <h2>horas extra</h2>
+                <br>
+                @{
+                    var validarErrorSolicitud = "";
+                    if ((String)ViewData["hayErrorSolicitud"] == "rojo")
+                    {
+                        validarErrorSolicitud = "border: 2px solid #BB0707;";
+                    }
+                    else if ((String)ViewData["hayErrorSolicitud"] == "verde")
+                    {
+                        validarErrorSolicitud = "border: 2px solid #15D25C;";
+                    }
+                }
+                <form action="/Home/responderSolicitud" method="post">
+                    <div class="agrupar" style="@validarErrorSolicitud">
+                        <small>Número de solicitud</small>
+                        <select class="text-input" name="comboIDSolicitud">
+                            @foreach (var item in (List<SolicitudHorasExtra>)ViewData["listaSolicitudesPendientes"])
+                            {
+                                <option value="@item.idSolicitud">@item.idSolicitud</option>
+                            }
+                        </select>
+                        <small>Aprobar o rechazar solicitud</small>
+                        <select name="comboAprobReprob" id="IDAprobReprob" class="text-input" onchange="mostrarMotivo();">
+                            <option value="Aprobado">Aprobado</option>
+                            <option value="Rechazado">Rechazado</option>
+                        </select>
+                        <textarea name="motivoRechazo" id="motivoRechazo" rows="10" placeholder=" Motivo de rechazo" style="display:none;"></textarea>
+                        <br><br>
+                        <p>@ViewData["respuestaResponderSolicitud"]</p>
+                        <input type="submit" value="Enviar respuesta" class="btn-submit">
+                        <script>
+                            function mostrarMotivo() {
+                                var Eleccion = document.getElementById("IDAprobReprob");
+                                var Motivo = document.getElementById("motivoRechazo");
+                                if (Eleccion.value == "Rechazado") {
+                                    Motivo.style.display = 'block';
+                                } else if (Eleccion.value == "Aprobado") {
+                                    Motivo.style.display = 'none';
+                                }
+                            }
+                        </script>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-2">
+                <br>
+                <h2>Bandeja</h2>
+                <h2>de solicitudes</h2>
+                <br>
+                <div class="agrupar">
+                    <table>
+                        <tr>
+                            <th>Solicitud</th>
+                            <th>Funcionario</th>
+                            <th>Tarea a realizar</th>
+                            <th>Fecha de asignación</th>
+                            <th>Horas estimadas</th>
+                        </tr>
+                        @foreach (var item in (List<SolicitudHorasExtra>)ViewData["listaSolicitudesPendientes"])
+                        {
+                            <tr>
+                                <td>@item.idSolicitud</td>
+                                <td>@item.idUsuario</td>
+                                <td>@item.TareaPrincipal</td>
+                                <td>@item.fechaInicio</td>
+                                <td>@item.HorasAprox</td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br>
+                <a href="solicitud_jefatura">Enviar Solicitud</a>
+                <br>
+                <a href="bandeja_solicitudes">Bandeja de solicitudes</a>
+                <br>
+                <a href="evidencias_jefatura">Evidencias</a>
+                <br>
+                <a href="comparaciones">Comparativas</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,267 @@
+﻿@using HorasExtraGabo.Models;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Comparaciones</title>
+    <link href="~/css/estilos.css" rel="stylesheet" />
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <link href="~/css/formularios.css" rel="stylesheet" />
+    <link href="~/css/tablas.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<body onload="Filtrar(); Filtrar2(); Filtrar3();">
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo" style="height:initial;">
+        <br>
+        <div class="columnas">
+            <div class="col-1">
+                <h2>Comparación de documentos</h2>
+                <div class="agrupar">
+                    <p>Filtro</p>
+                    <select name="AprobReprob" id="comboFuncionarios" class="text-input" onchange="Filtrar(); Filtrar2(); Filtrar3();" style="width:50%;">
+                        @foreach (var item in (List<Persona>)ViewData["listaFuncionarios"])
+                        {
+                            <option value="@item.idUsuario">@item.Nombre</option>
+                        }
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="columnas">
+            <div class="col-1">
+                <br>
+                <div class="agrupar" id="divReportes">
+                    <h2>Reportes de asistencia solicitados por el usuario</h2>
+                    <br>
+                    <ul class="tarjetas" id="tarjetasReportes">
+                        @foreach (var item in (List<ReportesAsistencia>)ViewData["listaReportes"])
+                        {
+                            <li class="card">
+                                <div class="agrupar">
+                                    <h3>ID: @item.idReporte</h3>
+                                    <p><a target="_blank" href="@item.rutaReporte">Descargar reporte</a></p>
+                                    <p hidden class="ClassUsuarioReportes">@item.idUsuario</p>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="columnas">
+            <div class="col-1">
+                <br>
+                <div class="agrupar" id="divEvidencias">
+                    <h2>Evidencias Aprobadas por Usuario</h2>
+                    <br>
+                    <ul class="tarjetas" id="tarjetasEvidencias">
+                        @foreach (var item in (List<Evidencias>)ViewData["listaEvidencias"])
+                        {
+                            <li class="card">
+                                <div class="agrupar">
+                                    <h3>ID: @item.idEvidencia</h3>
+                                    <p>Actividad: @item.Actividad</p>
+                                    <p><a target="_blank" href="@item.RutaDocumento">Descargar evidencia</a></p>
+                                    <p hidden class="ClassUsuarioEvidencia">@item.idUsuario</p>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <div class="columnas">
+            <div class="col-1">
+                <div class="agrupar">
+                    <h2>Formularios por usuarios</h2>
+                    <br>
+                    <div class="columnas">
+                        <div class="col-6">
+                            <div class="agrupar2" id="divFormularios">
+                                <h2>Listado de formularios</h2>
+                                <br>
+                                <p>Seleccione un formulario</p>
+                                <select name="ListaFormularios" class="text-input" id="IDListaFormularios" value="" style="width: 50%;" onchange="FiltrarTablaJornada();">
+                                    <option disabled selected> -- Seleccione un formulario -- </option>
+                                    @foreach (var item in (List<FormulariosHorasExtra>)ViewData["listaFormularios"])
+                                    {
+                                        <option value="@item.idUsuario" class="opcionesDropDownFormularios" style="display:none;">@item.idFormularioHorasExtra</option>
+                                    }
+
+                                </select>
+                                <table id="tablaJornadas" style="border: 1px solid black;">
+                                    <tr>
+                                        <th height="50">ID de Jornada</th>
+                                        <th height="50">Fecha</th>
+                                        <th height="50">Hora de entrada</th>
+                                        <th height="50">Hora de salida</th>
+                                        <th height="50">Horas totales</th>
+                                        <th height="50">Acción</th>
+                                        <th height="50" hidden>ID Formulario</th>
+                                        <th height="50" hidden>ID Usuario</th>
+                                        <th height="50">Funcionario</th>
+                                    </tr>
+                                    @foreach (var item in (List<JornadasHorasExtra>)ViewData["listaJornadas"])
+                                    {
+                                        <tr style="display: none;">
+                                            <td>@item.idJornada</td>
+                                            <td>@item.Fecha.ToString().Substring(0, 10)</td>
+                                            <td>@item.HoraEntrada</td>
+                                            <td>@item.HoraSalida</td>
+                                            <td>@item.HorasValidas</td>
+                                            <td><a href="/Home/consultaJornada?idJ=@item.idJornada.ToString().Trim()&Fecha=@item.Fecha.ToString().Trim()&HoraEntrada=@item.HoraEntrada.ToString().Trim()&HoraSalida=@item.HoraSalida.ToString().Trim()&HorasValidas=@item.HorasValidas.ToString().Trim()&idFormulario=@item.idFormularioHorasExtra.ToString().Trim()&idUsuario=@item.idUsuario.ToString().Trim()">Seleccionar</a></td>
+                                            <td hidden>@item.idFormularioHorasExtra</td>
+                                            <td hidden>@item.idUsuario</td>
+                                            <td>@item.nombreUsuario</td>
+                                        </tr>
+                                    }
+
+                                </table>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="agrupar">
+                                @{
+                                    var arrayJornada = new string[7];
+                                    if (ViewData["mostrarJornada"] != null)
+                                    {
+                                        arrayJornada = (string[])ViewData["mostrarJornada"];
+                                        arrayJornada[1] = arrayJornada[1].Split(' ')[0];
+                                    }
+                                }
+                                <h2>Jornadas por formulario</h2>
+                                <br>
+                                <form action="/Home/validarHorasJornada" method="post">
+                                    <p>Fecha de trabajo</p>
+                                    <input type="text" class="text-input" name="Fecha" value="@arrayJornada[1]" readonly>
+                                    <p>Fecha de inicio</p>
+                                    <input type="text" class="text-input" name="HoraInicio" value="@arrayJornada[2]" placeholder="Hora de inicio" readonly>
+                                    <p>Fecha de salida</p>
+                                    <input type="text" class="text-input" name="HoraFin" value="@arrayJornada[3]" placeholder="Hora de fin" readonly>
+                                    <hr />
+                                    <p>Horas trabajadas</p>
+                                    <input type="number" class="text-input" name="HorasTrabajadas" value="@arrayJornada[4]" placeholder="Ingrese las horas válidas">
+                                    <input type="hidden" name="idFormulario" value="@arrayJornada[5]" />
+                                    <input type="hidden" name="idJornada" value="@arrayJornada[0]" />
+                                    <input type="hidden" name="idUsuario" value="@arrayJornada[6]" />
+                                    <input type="submit" class="btn-submit" value="Validar horas">
+                                </form>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+    </div>
+
+    <script>
+        function Filtrar() {
+            var input, filter, cards, cardContainer, h5, title, i;
+            input = document.getElementById("comboFuncionarios");
+            filter = input.value.toUpperCase();
+            cardContainer = document.getElementById("tarjetasReportes");
+            cards = cardContainer.getElementsByClassName("card");
+            for (i = 0; i < cards.length; i++) {
+                title = cards[i].querySelector("p.ClassUsuarioReportes");
+                if (title.innerText.toUpperCase().indexOf(filter) > -1) {
+                    cards[i].style.display = "";
+                } else {
+                    cards[i].style.display = "none";
+                }
+            }
+        }
+
+        function Filtrar2() {
+            var input, filter, cards, cardContainer, title, i;
+            input = document.getElementById("comboFuncionarios");
+            filter = input.value.toUpperCase();
+            cardContainer = document.getElementById("tarjetasEvidencias");
+            cards = cardContainer.getElementsByClassName("card");
+            for (i = 0; i < cards.length; i++) {
+                title = cards[i].querySelector("p.ClassUsuarioEvidencia");
+                if (title.innerText.toUpperCase().indexOf(filter) > -1) {
+                    cards[i].style.display = "";
+                } else {
+                    cards[i].style.display = "none";
+                }
+            }
+        }
+
+        function Filtrar3() {
+            var input, filter, cards, cardContainer, title, i;
+            input = document.getElementById("comboFuncionarios");
+            filter = input.value.toUpperCase();
+            DropDownFormularios = document.getElementById("IDListaFormularios");
+            cards = DropDownFormularios.getElementsByClassName("opcionesDropDownFormularios");
+            for (i = 0; i < cards.length; i++) {
+                title = cards[i].value;
+                if (title.toUpperCase().indexOf(filter) > -1) {
+                    cards[i].style.display = "";
+                } else {
+                    cards[i].style.display = "none";
+                }
+            }
+        }
+
+        function FiltrarTablaJornada() {
+            var txtInput, filtro, tabla, fila, columna, valorColumna;
+            txtInput = document.getElementById("IDListaFormularios");
+            filtro = txtInput.options[txtInput.selectedIndex].text.toUpperCase();
+            tabla = document.getElementById("tablaJornadas");
+            fila = tabla.getElementsByTagName("tr");
+            for (var i = 0; i < fila.length; i++) {
+                columna = fila[i].getElementsByTagName("td")[6];
+                if (columna) {
+                    valorColumna = columna.textContent || columna.innerText;
+                    if (valorColumna.toUpperCase().indexOf(filtro) > -1) {
+                        fila[i].style.display = "";
+                    } else {
+                        fila[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br>
+                <a href="solicitud_jefatura">Enviar Solicitud</a>
+                <br>
+                <a href="evidencias_jefatura">Evidencias</a>
+                <br>
+                <a href="comparaciones">Comparativas</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,195 @@
+﻿@using HorasExtraGabo.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Enviar Solicitud</title>
+    <link href="~/css/estilos.css" rel="stylesheet" />
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <link href="~/css/formularios.css" rel="stylesheet" />
+    <link href="~/css/tablas.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo" style="height:initial;">
+        <div class="columnas">
+            <div class="col-2">
+                <br>
+                <h2>Formulario de solicitud</h2>
+                <h2>de horas extra</h2>
+                <br />
+                @{
+                    var validarActividad = "";
+                    if ((String)ViewData["hayActividades"] == "rojo")
+                    {
+                        validarActividad = "border: 2px solid #BB0707;";
+                    }
+                    else if ((String)ViewData["hayActividades"] == "verde")
+                    {
+                        validarActividad = "border: 2px solid #15D25C;";
+                    }
+                }
+                <div class="agrupar" style="@validarActividad">
+                    <input type="text" class="text-input" placeholder="Actividad" id="txtActividad" value="">
+                    <small>@ViewData["txtActividad"]</small>
+                    <input type="button" value="Agregar actividad" class="btn-submit" onclick="location.href='@Url.Action("agregarActividad", "Home")?act=' + encodeURIComponent(document.getElementById('txtActividad').value)">
+                </div>
+                <br>
+                @{
+                    var validarSolicitud = "";
+                    if ((String)ViewData["haySolicitud"] == "rojo")
+                    {
+                        validarSolicitud = "border: 2px solid #BB0707;";
+                    }
+                    else if ((String)ViewData["haySolicitud"] == "verde")
+                    {
+                        validarSolicitud = "border: 2px solid #15D25C;";
+                    }
+                }
+                <div class="agrupar" style="@validarSolicitud">
+                    <form action="/Home/agregarSolicitudJefatura" method="post">
+                        <select name="idUsuario" id="comboFuncionarios" class="text-input" onchange="Filtrado()" required>
+                            @foreach (var item in (List<Persona>)ViewData["listaFuncionarios"])
+                            {
+                                <option value="@item.idUsuario">@item.Nombre</option>
+                            }
+                        </select>
+                        <small>Fecha de inicio</small>
+                        <input type="date" class="text-input" name="FechaInicio" required>
+                        <small>Fecha límite</small>
+                        <input type="date" class="text-input" name="FechaFin" required>
+                        <small>Cantidad aproximada de horas</small>
+                        <input type="number" class="text-input" name="HorasAprox" required>
+                        <textarea name="TareaPrincipal" id="" rows="10" placeholder="Tarea principal" required></textarea>
+                        <br><br>
+                        <small>@ViewData["resultadoSolicitudJefatura"]</small>
+                        <input type="submit" value="Enviar solicitud" class="btn-submit">
+                    </form>
+                </div>
+            </div>
+
+            <div class="col-2">
+                <br>
+                <h2>Solicitudes enviadas</h2>
+                <h2>por Jefatura</h2>
+                <br />
+                <div class="agrupar2">
+                    <table style="border: 1px solid black;">
+                        <tr>
+                            <th>Nombre</th>
+                            <th>Fecha de inicio</th>
+                            <th>Fecha límite</th>
+                            <th>Cantidad apróx de horas</th>
+                            <th>Tarea principal</th>
+                        </tr>
+                        @foreach (var item in (List<SolicitudHorasExtra>)ViewData["listaSolicitudes"])
+                        {
+                            <tr>
+                                <td hidden>@item.idUsuario</td>
+                                <td>@item.nombreUsuario</td>
+                                <td>@item.fechaInicio.ToString().Substring(0, 10)&nbsp;</td>
+                                <td>@item.fechaLimite.ToString().Substring(0, 10)</td>
+                                <td>@item.HorasAprox</td>
+                                <td>@item.TareaPrincipal</td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+                <br>
+            </div>
+        </div>
+        <br />
+        <div class="columnas">
+            <div class="col-1">
+                <div class="agrupar">
+                    <div class="columnas">
+                        <div class="col-2">
+                            <div class="agrupar2">
+                                <h2>Solicitudes aceptadas</h2>
+                                <table style="border: 1px solid black;">
+                                    <tr>
+                                        <th height="50" style="background-color:#008a2d">Nombre</th>
+                                        <th height="50" style="background-color:#008a2d">Fecha límite</th>
+                                        <th height="50" style="background-color:#008a2d">Tarea principal</th>
+                                    </tr>
+                                    @if (ViewData["listaSolicitudesAceptadas"] != null)
+                                    {
+                                        foreach (var item in (List<SolicitudHorasExtra>)ViewData["listaSolicitudesAceptadas"])
+                                        {
+                                            <tr>
+                                                <td hidden>@item.idUsuario</td>
+                                                <td>@item.nombreUsuario</td>
+                                                <td>@item.fechaLimite.ToString().Substring(0, 10)</td>
+                                                <td>@item.TareaPrincipal</td>
+                                            </tr>
+                                        }
+                                    }
+
+                                </table>
+                            </div>
+                        </div>
+
+                        <div class="col-2">
+                            <div class="agrupar2">
+                                <h2>Solicitudes rechazadas</h2>
+                                <table style="border: 1px solid black;">
+                                    <tr>
+                                        <th height="50" style="background-color:#830000">Nombre</th>
+                                        <th height="50" style="background-color:#830000">Fecha límite</th>
+                                        <th height="50" style="background-color:#830000">Tarea principal</th>
+                                    </tr>
+                                    @foreach (var item in (List<SolicitudHorasExtra>)ViewData["listaSolicitudesRechazadas"])
+                                    {
+                                        <tr>
+                                            <td hidden>@item.idUsuario</td>
+                                            <td>@item.nombreUsuario</td>
+                                            <td>@item.fechaLimite.ToString().Substring(0, 10)</td>
+                                            <td>@item.TareaPrincipal</td>
+                                        </tr>
+                                    }
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+    </div>
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br>
+                <a href="solicitud_jefatura">Enviar Solicitud</a>
+                <br>
+                <a href="evidencias_jefatura">Evidencias</a>
+                <br>
+                <a href="comparaciones">Comparativas</a>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>

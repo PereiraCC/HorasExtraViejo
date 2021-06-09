@@ -1,0 +1,178 @@
+﻿@using Sitios.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Director Administrativo</title>
+    <link rel="stylesheet" href="/css/cs_da_aprobacion.css">
+    <link rel="stylesheet" href="/css/fontello.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="../Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo">
+        <h1>Aprobaci&oacute;n horas extraordinarias</h1>
+        <div class="col-6 col-pos">
+            <table id="tabla">
+                <br>
+                <br>
+                <thead>
+                <th class="idFun" hidden>ID Funcionario</th>
+                <th>Nombre</th>
+                <th>Fecha Envio</th>
+                <th>Mes</th>
+                <th>Horas</th>
+                <th>Departamento</th>
+                <th>Acción</th>
+                </thead>
+                <tbody>
+                    @using (Html.BeginForm("", ""))
+                    {
+                        if (ViewBag.datos != null)
+                        {
+                            for (int yx = 0; yx < 7; yx++)
+                            {
+                                <tr class="tds">
+                                    <td class="idFun" hidden>@ViewBag.datos[yx, 0]</td>
+                                    <td>@ViewBag.datos[yx, 1]</td>
+                                    <td>@ViewBag.datos[yx, 2]</td>
+                                    <td>@ViewBag.datos[yx, 3]</td>
+                                    <td>@ViewBag.datos[yx, 4]</td>
+                                    <td>@ViewBag.datos[yx, 5]</td>
+                                    <td hidden>@ViewBag.datos[yx, 6]</td>
+                                    <td hidden>@ViewBag.datos[yx, 7]</td>
+                                    <td><img class="boton" src="~/media/edit.png" width="30" /></td>
+                                    <!-- <td><button>Cargar</button></td>-->
+                                </tr>
+                            }
+                        }
+                    }
+                </tbody>
+            </table>
+            @using (Html.BeginForm("DaAprobacion", "Director"))
+            {
+                <form action="DaAprobacion" hidden><input type="submit" class="btn" value="Refrescar" style="padding:2px; width:15%; margin-left:5%;"></form>
+            }
+        </div>
+        <div id="respuesta"></div>
+
+        <script>
+            /* $("table tbody tr").click(function () {
+                 var ind = $(this).parent().children().index($(this));
+
+                 var x = document.getElementsByTagName("td");
+                 //var dato1 = [x[0].innerHTML, x[1].innerHTML, x[4].innerHTML, x[3].innerHTML  ];
+                 $("#idF").html(ind);
+                 $("#idn").html(dato1[1]);
+                 $("#idHora").html(dato1[2]);
+                 $("#idMes").html(dato1[3]);
+             });*/
+
+            $(document).ready(function () {
+
+
+                $(".boton").click(function () {
+
+                    //valores obtendra el dato del td por posciones [0]
+                    var valores0 = $(this).parents("tr").find("td")[0].innerHTML;
+                    var valores1 = $(this).parents("tr").find("td")[1].innerHTML;
+                    var valores2 = $(this).parents("tr").find("td")[4].innerHTML;
+                    var valores3 = $(this).parents("tr").find("td")[3].innerHTML;
+                    var valores4 = $(this).parents("tr").find("td")[2].innerHTML; //Fecha
+                    var valores5 = $(this).parents("tr").find("td")[7].innerHTML; //Quincena
+                    var valores7 = $(this).parents("tr").find("td")[6].innerHTML; //idJornada
+                    document.getElementById("idF").value = valores0;
+                    document.getElementById("idn").value = valores1;
+                    document.getElementById("idHora").value = valores2;
+                    document.getElementById("idMes").value = valores3;
+                    //  document.getElementById("idProc").value = valores5;
+                    //  document.getElementById("idr").value = valores6;
+                    document.getElementById("idFor").value = valores4;
+                    document.getElementById("quincena").value = valores5;
+                    document.getElementById("idJornada").value = valores7;
+
+                    /*
+                                        $("#idF").html(valores0);
+                                        $("#idn").html(valores1);
+                                        $("#idHora").html(valores2);
+                                        $("#idMes").html(valores3);
+                                        alert(valores4);*/
+                });
+
+                $(".btr").click(function () {
+                    var url = document.getElementById("idr").value;
+                    window.open(url, '_blank');
+                });
+
+                $(".btj").click(function () {
+                    var fecha = document.getElementById('idFor').value; //Fecha
+                    var nom = document.getElementById('idn').value;
+                    window.open('/Tiempo/TeAprobacion/?opc=da&fecha=' + fecha + '&nombre=' + nom, '_blank');
+                });
+
+            });
+
+        </script>
+
+        <div class="col-7 col-pos">
+            <br><br>
+            @using (Html.BeginForm("AprobarHoras", "Director"))
+            {
+                <form action="AprobarHoras" method="post">
+                    <label hidden>ID Funcionario</label><br>
+                    <input hidden type="text" class="txt-pro" name="idFuncionario" id="idF">
+                    <br><label>Nombre</label><br>
+                    <input type="text" class="txt-pro" name="nombre" id="idn"><br><br />
+                    <a class="btj" name="" value="Ver">Verificar Jornada</a><input hidden type="text" class="txt-pro" style="width:54%;" id="idJornada" name="nombre">
+                    <label hidden>Reporte de Asistencia</label><br>
+                    <input type="text" hidden class="txt-pro" name="reporteAsistencia" id="idr"><br><br />
+                    <a class="btr" name="" value="Ver" hidden>Ver Reporte</a>
+                    <label>Hora extra</label><br>
+                    <input type="text" class="txt-pro" name="hora" id="idHora"><br>
+                    <label> Mes</label><br>
+                    <input type="text" class="txt-pro" name="mes" id="idMes"><br>
+                    <label>Fecha Enviado:</label><br>
+                    <input class="txt-pro" type="text" name="formulario" id="idFor"><br>
+                    <input type="text" class="txt-pro" name="idProc" id="idProc" hidden><br>
+                    <label> Si la fecha es posterior a la tercer semana, se paga en la primer quincena del mes siguiente</label><br>
+
+                    <input type="text" name="quincena" id="quincena" class="txt-pro"><br>
+
+                    <input class="btn" type="submit" name="" value="Aprobar"><br>
+                </form>
+            }
+        </div>
+    </div>
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+
+</html>
+

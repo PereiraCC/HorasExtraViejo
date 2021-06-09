@@ -1,0 +1,144 @@
+﻿@using HorasExtraGabo.Models;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Bitácora</title>
+    <link href="~/css/fontello.css" rel="stylesheet" />
+    <link href="~/css/estilos.css" rel="stylesheet" />
+    <link href="~/css/formularios.css" rel="stylesheet" />
+    <link href="~/css/tablas.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu" class="icon-menu"></label>
+            </div>
+            <div class="logo">
+                <a href="/Home/Index" title="Logout"><img src="~/media/logo.jpg" alt=""></a>
+            </div>
+            <nav class="menu" style="background-color: #092A5B;">
+                <a href="#">@Session["Rol"]</a>
+                <a href="#">@Session["nombre"]</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="cuerpo" style="height:initial;">
+        <h2>Bitácora</h2>
+        <div class="columnas">
+            <div class="col-1">
+                <div class="agrupar">
+                    <p>Filtro</p>
+                    <input type="text" class="text-input" id="IDUsuario" placeholder="Nombre del Usuario" style="width:49.5%;" onkeyup="filtradoBitacoraUsuario()" />
+                    <input type="date" class="text-input" id="FechaBitacora" style="width:24.5%;" onchange="filtradoBitacoraFecha()" />
+                    <input type="date" class="text-input" id="FechaBitacora2" style="width:24.5%;" onchange="filtradoBitacoraFecha()" />
+                </div>
+            </div>
+        </div>
+        <br />
+        <div id="tarjetasBitacora">
+            @foreach (var item in (List<Bitacora>)ViewData["listaBitacora"])
+            {
+                <div class="columnas">
+                    <div class="col-1">
+                        <div class="card">
+                            <div class="agrupar">
+                                <h3 class="ClassUsuarioBitacora">Nombre del Usuario: @item.idUsuario</h3>
+                                <h3 class="ClassFechaBitacora">Fecha: @item.Fecha</h3>
+                                <p>Resumen de ejecución: @item.Resumen</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+            }
+        </div>
+        
+    </div>
+
+    <script>
+        function filtradoBitacoraUsuario() {
+            var input, filter, cards, cardContainer, h5, title, i;
+            input = document.getElementById("IDUsuario");
+            filter = input.value.toUpperCase();
+            cardContainer = document.getElementById("tarjetasBitacora");
+            cards = cardContainer.getElementsByClassName("card");
+            for (i = 0; i < cards.length; i++) {
+                title = cards[i].querySelector("h3.ClassUsuarioBitacora");
+                if (title.innerText.toUpperCase().indexOf(filter) > -1) {
+                    cards[i].style.display = "";
+                    cards[i].style.position = "default";
+                } else {
+                    cards[i].style.display = "none";
+                    cards[i].style.position = "absolute";
+                }
+            }
+        }
+
+        function filtradoBitacoraFecha() {
+            var input, input2, filter, cards, cardContainer, h5, title, i;
+            input = document.getElementById("FechaBitacora");
+            input2 = document.getElementById("FechaBitacora2");
+            filter = input.value.toUpperCase();
+            var filter2 = input2.value.toUpperCase();
+            var Anno = filter.substr(0, 4);
+            var Mes = filter.substr(5, 2);
+            var Dia = filter.substr(8, 2);
+            filter = Mes + '/' + Dia + '/' + Anno;
+
+            var Anno2 = filter2.substr(0, 4);
+            var Mes2 = filter2.substr(5, 2);
+            var Dia2 = filter2.substr(8, 2);
+            filter2 = Mes2 + '/' + Dia2 + '/' + Anno2;
+
+            cardContainer = document.getElementById("tarjetasBitacora");
+            cards = cardContainer.getElementsByClassName("card");
+            for (i = 0; i < cards.length; i++) {
+                title = cards[i].querySelector("h3.ClassFechaBitacora");
+                var FechaCard = title.innerText.toUpperCase();
+                var FechaCardLimpio = FechaCard.substring(FechaCard.indexOf(": ") + 2, FechaCard.lastIndexOf(" "));
+
+                var Anno3 = FechaCardLimpio.substr(6, 4);
+                var Mes3 = FechaCardLimpio.substr(3, 2);
+                var Dia3 = FechaCardLimpio.substr(0, 2);
+
+                FechaCardLimpio = Mes3 + '/' + Dia3 + '/' + Anno3;
+                var FechaCard2 = Date.parse(FechaCardLimpio);
+                var FechaFiltro = Date.parse(filter);
+                var FechaFiltro2 = Date.parse(filter2);
+                if (FechaCard2 >= FechaFiltro && FechaCard2 <= FechaFiltro2) {
+                    cards[i].style.display = "block";
+                    cards[i].style.position = "default";
+                } else {
+                    cards[i].style.display = "none";
+                    cards[i].style.position = "absolute";
+                }
+            }
+        }
+    </script>
+
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+                <br>
+                <a href="../Tiempo/Pendientes">Lista Pendientes</a>
+                <br>
+                <a href="../Tiempo/TeAprobacion">Aprobación</a>
+                <br>
+                <a href="bitacora">Bitácora</a>
+                <br>
+            </nav>
+            <label for="btn-menu" class="icon-equis"></label>
+        </div>
+    </div>
+
+</body>
+</html>

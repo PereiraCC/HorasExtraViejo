@@ -1,0 +1,1290 @@
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\ExtremeTech\source\repos\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (1)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtraGabo (2)\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtraGabo - CON CADENAS MODIFICADAS\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtraF\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\Abner\Desktop\FinalSitios\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtra (3)\HorasExtra (3)\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\HorasExtra - UNIDO STRINGS MODIFICADOS\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\Steven\Downloads\HorasExtra-AbnerGabo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\ExtremeTech\Desktop\PROYECTO\III PROYECTO UNIDO\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll.config
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\HorasExtraGabo.pdb
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\csc.exe.config
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\csc.rsp
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\csi.exe.config
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\csi.rsp
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.AppContext.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Console.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Http.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.ValueTuple.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.exe.config
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\vbc.rsp
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\WebGrease.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.Helpers.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.Mvc.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.Optimization.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.Razor.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\System.Web.WebPages.Razor.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\Newtonsoft.Json.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\Antlr3.Runtime.pdb
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\es\System.Web.Razor.resources.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csprojAssemblyReference.cache
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CoreCompileInputs.cache
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.csproj.CopyComplete
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.dll
+C:\Users\PereiraCoto\Documents\Personal\Cuatrimestre\Sitios\Proyecto\Proyecto Viejo\HorasExtra\HorasExtraGabo\obj\Debug\HorasExtraGabo.pdb
